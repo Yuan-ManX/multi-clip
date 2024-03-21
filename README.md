@@ -1,4 +1,3 @@
-# multi-clip
-Connecting text, images, audio, and video!
+# MultiClip: Connecting text, images, audio, and video!
 
 Coming soon！
